@@ -1,0 +1,4 @@
+# Alexnet and VGG 
+These are few notebooks that contained the code of a basic neural network and were assigned to transform that network into Alexnet or VGG according to structure explained in their datasheet or architecture.
+Then the model was run and used to predict classes of a few pictures which they successfully did.
+Results are probably in the parent folder.
