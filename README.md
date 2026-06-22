@@ -1,0 +1,1 @@
+# CNIC-detection-using-a-yoloV8-model
